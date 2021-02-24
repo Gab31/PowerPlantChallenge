@@ -1,7 +1,7 @@
 # PowerPlantChallenge
 > From the [powerplant-coding-challenge](https://github.com/gem-spaas/powerplant-coding-challenge) Calculate how much power each of a multitude of different powerplants need to produce (a.k.a. the production-plan) when the load is given and taking into account the cost of the underlying energy sources (gas, kerosine) and the Pmin and Pmax of each powerplant.
 
-<a href="https://www.next-kraftwerke.be/en/technology/next-pool/"><img src="https://www.next-kraftwerke.be/en/technology/next-pool/" title="Power Plant Distribution" alt="Power Plant Distribution Image"></a>
+<img src="https://www.next-kraftwerke.be/en/technology/next-pool/" title="Power Plant Distribution" alt="Power Plant Distribution Image">
 
 [Image source](https://www.next-kraftwerke.be/wp-content/uploads/2016/03/virtuele-energiecentrale.png)
 
