@@ -8,11 +8,11 @@
 
 ## Build
 Run the following command line in the project directory
-dotnet build
+`dotnet build`
 
 ## Run
 Run the following command line in the project directory
-dotnet run
+`dotnet run`
 
 ## Test
 You can now use your favorite testing tool on the next url. I personaly use POSTMAN.
